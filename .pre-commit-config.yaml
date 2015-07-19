@@ -2,6 +2,13 @@
     sha: 516cc9fa72ad09699f2c03ffbd0aa7f60d75b59a
     hooks:
     -   id: trailing-whitespace
+    -   id: autopep8-wrapper
+    -   id: check-case-conflict
+    -   id: check-docstring-first
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: double-quote-string-fixer
+    -   id: flake8
 -   repo: /Users/Zonito/Softwares/Codes/command-hook
     sha: 5fa10afa7e9b2ef41e5478ccc6886b5b7f2521f1
     hooks:
