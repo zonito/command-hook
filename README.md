@@ -1,2 +1,1 @@
-# command-hook
-Precommit command hook : Run any command at pre commit.
+A few useful git hooks to integrate with [pre-commit](http://pre-commit.com).

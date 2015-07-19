@@ -1,0 +1,7 @@
+- id: command
+  name: "Execute Command"
+  description: "Precommit hook to run any command"
+  entry: cmd
+  args: [ --command, 'pwd' ]
+  language: python
+  files: ''
