@@ -3,6 +3,6 @@
     hooks:
     -   id: trailing-whitespace
 -   repo: /Users/Zonito/Softwares/Codes/command-hook
-    sha: 90ef0ba180e9c5d9f8bcfdd49069ed6ddbc40a03
+    sha: 5fa10afa7e9b2ef41e5478ccc6886b5b7f2521f1
     hooks:
     -   id: command
