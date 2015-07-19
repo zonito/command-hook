@@ -9,7 +9,8 @@
     -   id: end-of-file-fixer
     -   id: double-quote-string-fixer
     -   id: flake8
--   repo: /Users/Zonito/Softwares/Codes/command-hook
-    sha: 5fa10afa7e9b2ef41e5478ccc6886b5b7f2521f1
+-   repo: https://github.com/zonito/command-hook.git
+    sha: 37d426efa47d52ce15f1c8744fa0593dbeb7b943
     hooks:
     -   id: command
+        args: [--command, 'ls']
